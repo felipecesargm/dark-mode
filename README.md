@@ -1,5 +1,5 @@
 # dark-mode
-Desafio recriado com base nos conhecimentos obtido no bootcamp Santander.
+Desafio DIO: recriado com base nos conhecimentos obtido no bootcamp Santander.
 
 Modo claro e escuro feito com JavaScript.
 
