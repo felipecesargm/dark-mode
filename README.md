@@ -6,4 +6,5 @@ Modo claro e escuro feito com JavaScript.
 dark-mode-page
 
 
-![lampada](https://user-images.githubusercontent.com/101780645/177069855-9f26b98b-08be-421e-b1fd-cb1b3f938cd2.gif)
+
+![lampada](https://user-images.githubusercontent.com/101780645/177070194-1545a85c-3dc8-4ae6-bb77-a9d1d9a59fea.gif)
